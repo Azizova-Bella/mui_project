@@ -139,6 +139,7 @@ function UserManagement() {
               alignItems: "center",
               justifyContent: "space-between",
               p: 2,
+              color:"grey",
               backgroundColor: "#333",
             }}
           >
